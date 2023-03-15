@@ -1,1 +1,1 @@
-# hbs_mvc
+# Hotel Booking System
