@@ -4,3 +4,5 @@
 
 /.vs
 /HBS.Web/obj
+/HBS.API/obj
+/HBS.Domain/obj
